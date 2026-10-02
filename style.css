@@ -537,11 +537,10 @@ main {
 .top-hero {
   position: relative;
   z-index: 10;
-  padding-top: 24px;
 }
 
 .top-hero h1 {
-  font-size: 6.4rem;
+  font-size: 26vw;
   line-height: 1.0;
   font-weight: 800;
   margin-top: 0;
